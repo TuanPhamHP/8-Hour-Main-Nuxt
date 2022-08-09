@@ -1,0 +1,126 @@
+{
+  "header": {
+    "syncData": "Đồng bộ dữ liệu",
+    "userAccount": "Tài khoản",
+    "update": "Cập nhật",
+    "logout": "Đăng xuất",
+    "appVersion": "Phiên bản",
+    "language": "Ngôn ngữ"
+  },
+  "button": {
+    "filter": "Lọc",
+    "reset": "Thiết lập lại",
+    "cancel": "Hủy",
+    "create": "Tạo mới",
+    "update": "Cập nhật",
+    "selectAll": "Chọn tất cả",
+    "addNewUser": "Thêm thành viên mới"
+  },
+  "snackbar": {
+    "fileOverSizeLimit": "File bạn chọn quá lớn.",
+    "getNewsFail": "Có lỗi xảy ra khi lấy danh sách bản tin. Liên hệ IT để được trợ giúp.",
+    "reportCommentFail": "Có lỗi xảy ra khi báo cáo bình luận. Liên hệ IT để được trợ giúp.",
+    "reportCommentSuccess": "Báo cáo bình luận thành công",
+    "getNewsLikesFail": "Có lỗi xảy ra khi lấy danh sách like bản tin. Liên hệ IT để được trợ giúp.",
+    "getCompaniesFail": "Có lỗi xảy ra khi lấy danh sách công ty. Liên hệ IT để được trợ giúp.",
+    "getDepartmentsFail": "Có lỗi xảy ra khi lấy danh sách phòng ban. Liên hệ IT để được trợ giúp.",
+    "getPositionsFail": "Có lỗi xảy ra khi lấy danh sách vị trí. Liên hệ IT để được trợ giúp.",
+    "getStickerFail": "Có lỗi xảy ra khi lấy danh sách sticker. Liên hệ IT để được trợ giúp.",
+    "getUsersFail": "Có lỗi xảy ra khi lấy danh sách người dùng. Liên hệ IT để được trợ giúp.",
+    "getUserGroupFail": "Có lỗi xảy ra khi lấy danh sách nhóm người dùng. Liên hệ IT để được trợ giúp.",
+    "getNewsCommentsFail": "Có lỗi xảy ra khi lấy danh sách bình luận. Liên hệ IT để được trợ giúp.",
+    "updateUserGroupFail": "Có lỗi xảy ra khi cập nhật danh sách nhóm người dùng. Liên hệ IT để được trợ giúp.",
+    "updateUserGroupSuccess": "Cập nhật danh sách nhóm người dùng thành công",
+    "createUserGroupFail": "Có lỗi xảy ra khi tạo mới nhóm người dùng. Liên hệ IT để được trợ giúp.",
+    "createUserGroupSuccess": "Tạo mới nhóm người dùng thành công",
+    "removeCommentsFail": "Có lỗi xảy ra khi xóa bình luận. Liên hệ IT để được trợ giúp.",
+    "removeCommentsSuccess": "Xóa bình luận thành công",
+    "removeGroupSuccess": "Xóa nhóm người dùng thành công",
+    "removeGroupFail": "Xóa nhóm người dùng thất bại"
+  },
+  "title": {
+    "addUserTitle": "Thêm thành viên mới",
+    "userCounter": "Danh sách thành viên",
+    "createGroupTitle": "Tạo nhóm người dùng",
+    "updateGroupTitle": "Chỉnh sửa nhóm người dùng"
+  },
+
+  "sidebar": {
+    "news": "Bản tin",
+    "schedules": "Lịch họp"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "userTabTitle": "Người dùng",
+    "groupUserTabTitle": "Nhóm người dùng",
+    "position": "Chức danh",
+    "detailHeader": "Thông tin người dùng",
+    "detailBody": "Thông tin cá nhân",
+    "detailCompany": "Công ty",
+    "detailPosition": "Chức danh",
+    "detailManager": "Người quản lý",
+    "detailEmail": "Email",
+    "detailPhone": "Số điện thoại",
+    "detailAddress": "Địa chỉ thường trú",
+    "detailDepartment": "Bộ phận",
+    "detailDOB": "Ngày sinh"
+  },
+  "groupContact": {
+    "createTitle": "Tạo nhóm người dùng",
+    "users": "Thành viên"
+  },
+  "logout": {
+    "title": "Đăng xuất",
+    "message": "Bạn chắc chắn muốn đăng xuất chứ?",
+    "cancelBtn": "Hủy",
+    "approveBtn": "Đồng ý"
+  },
+  "tooltip": {
+    "remove": "Xóa",
+    "advanceFilter": "Bộ lọc nâng cao",
+    "addNew": "Thêm mới",
+    "typingSend": "Gửi",
+    "typingPhoto": "Ảnh",
+    "typingEmoji": "Biểu tượng",
+    "edit": "Chỉnh sửa",
+    "chat": "Trò chuyện"
+  },
+  "placeholder": {
+    "textSearch": "Tìm kiếm",
+    "newsTextSearch": "Tìm kiếm bản tin",
+    "newsComments": "Viết bình luận...",
+    "groupName": "Tên nhóm",
+    "reportComment": "Lý do"
+  },
+  "search": {
+    "newsResult": "kết quả phù hợp"
+  },
+  "confirmDialog": {
+    "cancelBtnTextNormal": "Hủy",
+    "confirmBtnTextNormal": "Đồng ý",
+    "confirmReportBtnText": "Báo cáo",
+    "reportComment": "Báo cáo bình luận",
+    "removeCommentTitle": "Xóa bình luận",
+    "removeCommentMsg": "Bạn có chắc chắn muốn xóa bình luận này không?",
+    "removeGroupTitle": "Xóa nhóm người dùng",
+    "removeGroupMsg": "Bạn có chắc chắn muốn xóa nhóm này không?"
+  },
+  "news": {
+    "like": "Lượt thích",
+    "likeBtn": "Thích",
+    "replyBtn": "Trả lời",
+    "comment": "Bình luận",
+    "commentBtn": "Bình luận",
+    "otherFiles": "Tài liệu khác",
+    "colapse": "Thu gọn",
+    "otherLinks": "Link khác",
+    "textExpand": "Xem thêm",
+    "textColapse": "Thu gọn",
+    "loadMoreComment": "Xem thêm bình luận...",
+    "loadMoreChildComment": "Xem thêm phản hồi...",
+    "newComment": "Viết bình luận"
+  },
+  "reaction": {
+    "listLiked": "Danh sách người thích"
+  }
+}

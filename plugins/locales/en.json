@@ -1,0 +1,20 @@
+{
+  "header": {
+    "syncData": "Sync Data",
+    "userAccount": "My Account",
+    "update": "Update",
+    "logout": "Logout",
+    "appVersion": "Version",
+    "language": "Language"
+  },
+  "sidebar": {
+    "news": "News",
+    "schedules": "Schedules"
+  },
+  "logout": {
+    "title": "Logout",
+    "message": "Are you sure you want to logout?",
+    "cancelBtn": "Cancel",
+    "approveBtn": "Logout"
+  }
+}
